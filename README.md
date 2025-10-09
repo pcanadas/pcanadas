@@ -1,52 +1,40 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 # Hi, I'm Patricia
 
 I am passionate about technology :computer:, reading :book: and ancient history :european_castle:
 
-- 🔭 I’m currently working on personal proyects. My work involves developing web applications, automating tasks, and improving data management.
-- 🌱 I’m looking to collaborate on open-source #Python projects
-- 👯 I’m excited to contribute to your project!
+- 🔭 Currently working as a Full Stack & Backend Developer at Sitelicon, focusing on web applications, automation, data management, and server administration.
+- 🌱 Open to collaborating on open-source Python and web development projects.
+- 👯 Excited to contribute to your project!
 - 📫 How to reach me:
     - [Linkedin](https://www.linkedin.com/in/patricia-canadas)
-  
+
+---
+
 ### About Me
-I am a Python developer with over 20 years of experience in web development, data analysis, and project management. I am particularly interested in building scalable applications for the business environment.
+
+I am a full stack developer with a strong background in Python, PHP, and JavaScript, and extensive experience in web development, data analysis, automation, and server management. I enjoy building scalable business applications and integrating data workflows.
+
+---
 
 ### Skills & Technologies
-- **Python**: Flask, Django, SQLAlchemy, Pandas, NumPy
-- **Web Development**: HTML, CSS, JavaScript
-- **Databases**: PostgreSQL, MySQL
-- **Tools**: Git
+- **Languages:** Python, PHP, JavaScript
+- **Frameworks:** Flask, Django, SQLAlchemy
+- **Web:** HTML, CSS, REST APIs, Web Scraping (Selenium, BeautifulSoup)
+- **Databases:** MySQL, PostgreSQL
+- **Data & Analytics:** Pandas, NumPy, Power BI
+- **DevOps & Tools:** Linux, Docker, Nginx, Apache, Git
 
-### Personal Projects
-I am currently working on several personal projects to enhance my skills and contribute to the Python community. These projects include:
-- [VulpesCRM](https://github.com/pcanadas/VulpesCRM.git): An open-source CRM for managing business offers.
-- [GestorNet](https://github.com/pcanadas/gestornet.git): A Python web application for a computer supplies company.
-- [Productos](https://github.com/pcanadas/productos.git): A desktop app for product management.
-- [Tareas](https://github.com/pcanadas/tareas.git): A task management app.
-
-### Open Source Projects
-I have developed several open-source projects that focus on specific areas of interest and community needs. These projects are available on my GitHub account:
-- [pytorch-weather-prediction](https://github.com/pcanadas/pytorch-weather-prediction): Predicción de temperaturas usando una red LSTM en PyTorch. Procesamiento de datos climáticos, entrenamiento de modelo y visualización de resultados.
-- [weather_scraper](https://github.com/pcanadas/weather_scraper): Este proyecto automatiza la recopilación y el procesamiento de datos meteorológicos históricos y previsionales.
-- [northwind_mysql_analysis](https://github.com/pcanadas/northwind_mysql_analysis): Este repositorio contiene consultas avanzadas en MySQL usando la base de datos Northwind.
-- [InmoScraper](https://github.com/pcanadas/InmoScraper): Este proyecto proporciona un scraper automatizado para extraer información detallada de anuncios inmobiliarios desde sitios web
-
-### Certifications & Courses
-- Programador Python from Tokio School
-- Web Development with Python from IBM
-- IBM Verified Certificate for Developing Generative AI Applications with Python from IBM
-- Data Analysis with Python from IBM
-- Google Analytics Individual Qualification
-- Learn Python 3 Course from Codecademy
-- Computing in Python II: Control Structures from edX
-- Computing in Python I: Fundamentals and Procedural Programming. edX
-
-Feel free to fork or contribute to my projects!
+---
 
 ### My Github Stats
 
-![pcanadas's Stats](https://github-readme-stats.vercel.app/api?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)      ![pcanadas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) 
+![pcanadas's Stats](https://github-readme-stats.vercel.app/api?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![pcanadas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcanadas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
